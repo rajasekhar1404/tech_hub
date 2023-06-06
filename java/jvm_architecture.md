@@ -14,3 +14,6 @@
     - Execution engine
         - Native Method Interface
         - Native Method Libraries
+        
+![JVM_Architecture](https://www.guru99.com/images/1/2.png)
+![JVM_Architecture](https://miro.medium.com/v2/resize:fit:720/format:webp/1*MHpdx5oni3ymFQDKDFbWLQ.png)
